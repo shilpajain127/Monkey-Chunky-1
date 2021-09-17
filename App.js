@@ -104,6 +104,6 @@ const styles = StyleSheet.create({
   imageIcon: {
     width: 300,
     height: 150,
-    marginLeft: 95,
+    marginLeft: 195,
   }
 });
